@@ -2,6 +2,7 @@
 // then press Enter. You can now see whitespace characters in your code.
 public class Main {
     public static void main(String[] args) {
+        System.out.println("Домашнее Задание 2");
         var dog = 8.0;
         var cat = 3.6;
         var paper = 763789;
